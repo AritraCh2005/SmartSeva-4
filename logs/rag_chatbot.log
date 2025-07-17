@@ -1,0 +1,12 @@
+2025-07-17 18:33:40,868 - __main__ - INFO - Initialized session state with default page: chat
+2025-07-17 18:33:40,869 - ui.pages.chatbot - INFO - Initialized current_chat_id to None
+2025-07-17 18:33:40,870 - ui.pages.chatbot - INFO - Initialized current_chat_messages
+2025-07-17 18:33:40,870 - ui.pages.chatbot - INFO - Initialized pending_new_chat state
+2025-07-17 18:33:40,871 - ui.pages.chatbot - INFO - Session state initialized for enhanced chat system.
+2025-07-17 18:33:43,976 - services.chat_service - ERROR - Error loading chat history: Expecting value: line 1 column 1 (char 0)
+2025-07-18 01:33:29,811 - __main__ - INFO - Initialized session state with default page: chat
+2025-07-18 01:33:29,812 - ui.pages.chatbot - INFO - Initialized current_chat_id to None
+2025-07-18 01:33:29,814 - ui.pages.chatbot - INFO - Initialized current_chat_messages
+2025-07-18 01:33:29,814 - ui.pages.chatbot - INFO - Initialized pending_new_chat state
+2025-07-18 01:33:29,818 - ui.pages.chatbot - INFO - Session state initialized for enhanced chat system.
+2025-07-18 01:33:31,948 - services.chat_service - ERROR - Error loading chat history: Expecting value: line 1 column 1 (char 0)

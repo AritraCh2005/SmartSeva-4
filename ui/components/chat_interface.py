@@ -156,7 +156,7 @@ def render_chat_input():
         return
 
     # Chat input with clean placeholder
-    user_query = st.chat_input("💬 Ask your question about BSK services...")
+    user_query = st.chat_input("💬 Ask your question...")
 
     # Process user input if provided
     if user_query:
