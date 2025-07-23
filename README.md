@@ -154,18 +154,3 @@ streamlit run app.py
 
 
 
-## 📊 Performance Metrics
-
-- **Response Time**: < 3 seconds for typical queries
-- **Accuracy**: 95%+ based on internal testing
-- **Document Processing**: 100+ pages per minute
-
-## 🔮 Future Plans
-
-
-### Long-term Roadmap
-- **Full-fledged Web Interface**: Migration to React.js frontend with Node.js/FastAPI backend
-- **Advanced AI Framework**: Integration with LangGraph for more sophisticated workflows
-- **API Integration**: Direct integration with government service APIs
-- **Voice Interface**: Speech-to-text and text-to-speech capabilities
-- **Mobile Application**: Dedicated mobile app for field operators
