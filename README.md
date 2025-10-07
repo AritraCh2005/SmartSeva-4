@@ -9,7 +9,6 @@
 - **Embeddings**: OpenAI text-embedding-3-small
 - **Document Processing**: LangChain, PyPDF
 - **Memory Management**: Custom conversation buffer
-- **Logging**: Structured logging with rotationect Overview
 
 ## 📘 Project Overview
 
@@ -22,7 +21,6 @@
 - **🤖 Intelligent Chatbot**: AI-powered conversational interface for citizen queries
 - **📚 RAG Engine**: Advanced retrieval system for accurate information extraction
 - **🔍 Vector Operations**: Document upload, indexing, and similarity search
-- **💾 Persistent Memory**: Chat history and context management
 - **📊 Analytics Dashboard**: Query analysis and system performance metrics
 - **🔄 Real-time Updates**: Dynamic content management and updates
 - **🎨 Modern UI**: Clean, intuitive interface built with Streamlit
@@ -45,7 +43,7 @@
 
 - Python 3.11
 - pip package manager
-- Git (for cloning the repository)
+- Git 
 
 ### Step 1: Create Python Virtual Environment
 
