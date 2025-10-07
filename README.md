@@ -1,15 +1,5 @@
 # SmartSeva - Chatbot
 
-#### 🛠️ Technology Stack
-
-- **Backend**: Python 3.11+
-- **UI Framework**: Streamlit
-- **LLM Integration**: OpenAI GPT-4
-- **Vector Database**: ChromaDB
-- **Embeddings**: OpenAI text-embedding-3-small
-- **Document Processing**: LangChain, PyPDF
-- **Memory Management**: Custom conversation buffer
-
 ## 📘 Project Overview
 
 **SmartSeva** is an intelligent RAG (Retrieval-Augmented Generation) powered chatbot designed to simplify and streamline access to Indian government schemes and services. It delivers fast, reliable, and verified information—such as eligibility, required documents, and application steps—based strictly on available data. If information is missing, the assistant clearly indicates it, avoiding hallucinations or made-up responses. Ideal for citizens seeking clarity on government processes.
